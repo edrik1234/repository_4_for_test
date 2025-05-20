@@ -1,6 +1,6 @@
 from Student import Student
 from Employee import Employee
-print("this is from programmer 2 hi hi")
+print("this is from programmer 2 hi hi"< "lol")
 student = Student("edrian", 30, "electronics", 8,900)
 # student.foo()
 print("this is from programmer 1 hi yepta")
